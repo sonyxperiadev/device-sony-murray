@@ -31,6 +31,7 @@ BOARD_KERNEL_CMDLINE += androidboot.bootdevice=4804000.ufshc
 BOARD_KERNEL_CMDLINE += swiotlb=2048
 BOARD_KERNEL_CMDLINE += service_locator.enable=1
 BOARD_KERNEL_CMDLINE += console=null
+BOARD_KERNEL_CMDLINE += kpti=off
 
 # Serial console
 #BOARD_KERNEL_CMDLINE += earlycon=msm_geni_serial,0x4c8c000
