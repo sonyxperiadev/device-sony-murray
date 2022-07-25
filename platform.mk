@@ -218,8 +218,8 @@ PRODUCT_PACKAGES += \
 
 # Audio
 PRODUCT_PACKAGES += \
-    sound_trigger.primary.sm8450 \
-    audio.primary.sm8450 \
+    sound_trigger.primary.sm6375 \
+    audio.primary.sm6375 \
     libcirrusspkrprot
 
 # Camera
@@ -227,9 +227,9 @@ PRODUCT_PACKAGES += \
 
 # GFX
 PRODUCT_PACKAGES += \
-    copybit.sm8450 \
-    gralloc.sm8450 \
-    hwcomposer.sm8450 \
+    copybit.sm6375 \
+    gralloc.sm6375 \
+    hwcomposer.sm6375 \
     memtrack.default
 
 # Keymaster 4 passthrough service init file
@@ -250,7 +250,7 @@ DEVICE_MANIFEST_FILE += \
 
 # GPS
 PRODUCT_PACKAGES += \
-    gps.sm8450
+    gps.sm6375
 
 # Sensors init
 PRODUCT_PACKAGES += \
