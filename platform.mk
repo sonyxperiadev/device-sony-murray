@@ -254,7 +254,7 @@ PRODUCT_PACKAGES += \
 
 # Sensors init
 PRODUCT_PACKAGES += \
-    sdsp-sensorspdr.rc
+    adsp-sensorspdr.rc
 
 # Sensors
 # hardware.ssc.so links against display mappers, of which
