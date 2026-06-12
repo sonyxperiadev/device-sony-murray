@@ -13,4 +13,4 @@ Android device configuration for the murray platform (**SM6375**).
 
 ### Build instructions
 
-https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
+https://opendevices.sony.net/aosp-on-xperia-open-devices/guides/aosp-build-instructions/
